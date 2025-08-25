@@ -287,14 +287,14 @@ export default function InternCalendarPage() {
                 Intern Calendar
               </h1>
               <div className="text-sm sm:text-base text-primary/80 font-medium mt-1 font-heading">
-                NED University • Computer Science • Academic Year 2025-26
+                NED University • Computer Science
               </div>
             </div>
           </div>
           <p className="text-base sm:text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed px-4">
-            Streamlined intern availability and scheduling management dashboard
+            Intern availability and scheduling management dashboard
             <br className="hidden sm:block" />
-            <span className="text-sm text-muted-foreground/80">Auto-advances to current week • Aug 2025 - Dec 2025</span>
+            <span className="text-sm text-muted-foreground/80">• Aug 2025 - Dec 2025</span>
           </p>
         </div>
 

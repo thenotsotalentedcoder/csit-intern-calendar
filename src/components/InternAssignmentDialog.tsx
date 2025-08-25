@@ -140,7 +140,7 @@ export function InternAssignmentDialog({
                     <div className="flex items-center gap-3">
                       <InternBadge intern={intern} size="sm" />
                       <div className="text-xs text-muted-foreground">
-                        {intern.department}
+                        Section {intern.section} • Batch {intern.batch}
                       </div>
                     </div>
                     
