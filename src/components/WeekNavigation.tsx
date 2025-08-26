@@ -45,7 +45,7 @@ export function WeekNavigation({ currentWeek, onWeekChange }: WeekNavigationProp
             </span>
           </div>
           <div className="text-xl sm:text-2xl font-heading font-semibold text-foreground">
-            {startDate} - {endDate}, 2026
+            {startDate} - {endDate}
           </div>
         </div>
 
